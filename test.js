@@ -1,5 +1,6 @@
 /**
- * Исходные данные
+ * https://rawgit.com/ CDN для тестов
+ * https://rawgit.com/sergey-yushchenko/components/master/test.js
  */
 
 var a1 = [1,5,6,17,8,9],
@@ -12,5 +13,4 @@ var a1 = [1,5,6,17,8,9],
      {name: "Паша", spec: "JavaScript", salary: 5e4}    
     ];
 
-    // console.warn();   
-    // _.partition(a1,function(n){ return n % 2 });
+    // console.warn();
